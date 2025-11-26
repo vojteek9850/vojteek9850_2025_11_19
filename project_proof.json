@@ -1,0 +1,16 @@
+{
+    "timestamp": "2025-11-26T11:36:59.719854",
+    "project_folder": "/Users/vojtechpecta/Downloads/pecta_2025_11_26",
+    "project_folder_hash": "75046de89b6678d4da76a16a09dd879f9b7a57f4bffe58bf2bfef765cd4a27db",
+    "python_executable": "/Users/vojtechpecta/Downloads/pecta_2025_11_26/.venv/bin/python",
+    "python_version": "3.9.6 (default, Aug  8 2025, 19:06:38) \n[Clang 17.0.0 (clang-1700.3.19.1)]",
+    "public_ip": "195.39.44.178",
+    "local_ip": "172.16.2.123",
+    "unique_token": "11fee2178dab1c7a58007df09693b6274ba91b530ddb8ee0a6b827868bef3c90",
+    "system_info": {
+        "os": "Darwin",
+        "os_version": "Darwin Kernel Version 25.1.0: Mon Oct 20 19:26:04 PDT 2025; root:xnu-12377.41.6~2/RELEASE_ARM64_T8122",
+        "machine": "arm64",
+        "processor": "arm"
+    }
+}
